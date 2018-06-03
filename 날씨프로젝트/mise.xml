@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			
+				<item>
+					<stationName>중구</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.074</o3Value>
+					<no2Value>0.015</no2Value>
+					<pm10Value>25</pm10Value>
+					
+                        <pm10Value24>28</pm10Value24>
+                    
+					
+				        <pm25Value>14</pm25Value>
+				    
+				    
+                        <pm25Value24>17</pm25Value24>
+                    
+					<khaiValue>87</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>한강대로</stationName>
+					
+                        <mangName>도로변대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.4</coValue>
+					<o3Value>0.048</o3Value>
+					<no2Value>0.037</no2Value>
+					<pm10Value>36</pm10Value>
+					
+                        <pm10Value24>42</pm10Value24>
+                    
+					
+				        <pm25Value>-</pm25Value>
+				    
+				    
+                        <pm25Value24>-</pm25Value24>
+                    
+					<khaiValue>65</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>2</no2Grade>
+					<pm10Grade>2</pm10Grade>
+					
+				        <pm25Grade>-</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>2</pm10Grade1h>
+                        <pm25Grade1h>-</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>종로구</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.004</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.070</o3Value>
+					<no2Value>0.015</no2Value>
+					<pm10Value>24</pm10Value>
+					
+                        <pm10Value24>27</pm10Value24>
+                    
+					
+				        <pm25Value>18</pm25Value>
+				    
+				    
+                        <pm25Value24>18</pm25Value24>
+                    
+					<khaiValue>83</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>2</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>청계천로</stationName>
+					
+                        <mangName>도로변대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.006</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.066</o3Value>
+					<no2Value>0.023</no2Value>
+					<pm10Value>38</pm10Value>
+					
+                        <pm10Value24>34</pm10Value24>
+                    
+					
+				        <pm25Value>25</pm25Value>
+				    
+				    
+                        <pm25Value24>24</pm25Value24>
+                    
+					<khaiValue>80</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>2</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>2</pm10Grade1h>
+                        <pm25Grade1h>2</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>종로</stationName>
+					
+                        <mangName>도로변대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.4</coValue>
+					<o3Value>0.061</o3Value>
+					<no2Value>0.033</no2Value>
+					<pm10Value>23</pm10Value>
+					
+                        <pm10Value24>27</pm10Value24>
+                    
+					
+				        <pm25Value>9</pm25Value>
+				    
+				    
+                        <pm25Value24>14</pm25Value24>
+                    
+					<khaiValue>76</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>2</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>1</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>용산구</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.057</o3Value>
+					<no2Value>0.029</no2Value>
+					<pm10Value>24</pm10Value>
+					
+                        <pm10Value24>29</pm10Value24>
+                    
+					
+				        <pm25Value>23</pm25Value>
+				    
+				    
+                        <pm25Value24>22</pm25Value24>
+                    
+					<khaiValue>73</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>2</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>광진구</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.003</so2Value>
+					<coValue>0.5</coValue>
+					<o3Value>0.055</o3Value>
+					<no2Value>0.014</no2Value>
+					<pm10Value>28</pm10Value>
+					
+                        <pm10Value24>30</pm10Value24>
+                    
+					
+				        <pm25Value>14</pm25Value>
+				    
+				    
+                        <pm25Value24>17</pm25Value24>
+                    
+					<khaiValue>71</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>1</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>성동구</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.006</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.051</o3Value>
+					<no2Value>0.019</no2Value>
+					<pm10Value>111</pm10Value>
+					
+                        <pm10Value24>67</pm10Value24>
+                    
+					
+				        <pm25Value>32</pm25Value>
+				    
+				    
+                        <pm25Value24>24</pm25Value24>
+                    
+					<khaiValue>87</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>2</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>3</pm10Grade1h>
+                        <pm25Grade1h>2</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>강변북로</stationName>
+					
+                        <mangName>도로변대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.002</so2Value>
+					<coValue>0.4</coValue>
+					<o3Value>0.018</o3Value>
+					<no2Value>0.063</no2Value>
+					<pm10Value>35</pm10Value>
+					
+                        <pm10Value24>39</pm10Value24>
+                    
+					
+				        <pm25Value>20</pm25Value>
+				    
+				    
+                        <pm25Value24>22</pm25Value24>
+                    
+					<khaiValue>103</khaiValue>
+					<khaiGrade>3</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>1</o3Grade>
+					<no2Grade>3</no2Grade>
+					<pm10Grade>2</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>2</pm10Grade1h>
+                        <pm25Grade1h>2</pm25Grade1h>
+                    
+				</item>
+			
+				<item>
+					<stationName>중랑구</stationName>
+					
+                        <mangName>도시대기</mangName>
+                    
+					<dataTime>2018-06-03 19:00</dataTime>
+					<so2Value>0.005</so2Value>
+					<coValue>0.3</coValue>
+					<o3Value>0.066</o3Value>
+					<no2Value>0.010</no2Value>
+					<pm10Value>28</pm10Value>
+					
+                        <pm10Value24>26</pm10Value24>
+                    
+					
+				        <pm25Value>19</pm25Value>
+				    
+				    
+                        <pm25Value24>19</pm25Value24>
+                    
+					<khaiValue>80</khaiValue>
+					<khaiGrade>2</khaiGrade>
+					<so2Grade>1</so2Grade>
+					<coGrade>1</coGrade>
+					<o3Grade>2</o3Grade>
+					<no2Grade>1</no2Grade>
+					<pm10Grade>1</pm10Grade>
+					
+				        <pm25Grade>2</pm25Grade>
+				    
+				    
+                        <pm10Grade1h>1</pm10Grade1h>
+                        <pm25Grade1h>2</pm25Grade1h>
+                    
+				</item>
+			
+		</items>
+			<numOfRows>10</numOfRows>
+			<pageNo>1</pageNo>
+			<totalCount>39</totalCount>
+	</body>
+</response>
